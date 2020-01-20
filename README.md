@@ -9,5 +9,7 @@ Binomial_20_flips.txt file. The task of this repository is to determine the para
 
 # Code Description
 1. k_means.py file implements K-Means algorithm with 3 clusters to determine the parameters and the prior probabilities.
+
 2. em.py file implements Expectation Maximization (EM) algorithm to determine the parameters and the prior probabilities.
+
 3. em_kmeans.py file repeats Expectation Maximization (EM) algorithm, but it initializes parameters and prior probabilities with the outcomes of K-Means algorithm.
